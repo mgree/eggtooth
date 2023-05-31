@@ -1,3 +1,5 @@
+Thoughts on tactics for helping beginners use Coq in a way more resembling human proof. Never acted on.
+
 # Tactics
 
 destruct on functions
